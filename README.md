@@ -11,8 +11,8 @@
 
 #### How to Contact :
 
-+ If you are in the same college → [`@_ray_nulla`](https://twitter.com/_ray_nulla) or [`@tm_vhn`](https://twitter.com/tm_vhn)
-+ Else → [`@_Eru_108`](https://twitter.com/_Eru_108)
++ If you are in the same college → [`@tm_vhn`](https://twitter.com/tm_vhn)
++ Else → [`@_Eru_128`](https://twitter.com/_Eru_128)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lei-01&show_icons=true&theme=dark)
 
