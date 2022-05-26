@@ -9,11 +9,6 @@
 + Mathematics (Differential Equation)
 + Programming, Development - `C++, Python, SwiftUI, JavaScript, TypeScript, C`
 
-#### How to Contact :
-
-+ If you are in the same college → [`@tm_vhn`](https://twitter.com/tm_vhn)
-+ Else → [`@_Eru_128`](https://twitter.com/_Eru_128)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lei-01&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lei-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
