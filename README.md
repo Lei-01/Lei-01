@@ -3,10 +3,10 @@
 + Department of Mathematical and Computing Science, School of Computing, TokyoTech (Tokyo Institute of Technology)
 + Titech App Project (Developer Circle)
 
-#### I'm studying and want to major in : 
+#### I'm studying : 
 
-+ Computing Science (Information Security, Quantum Information Science)
-+ Mathematics (Differential Equation)
++ Computing Science
++ Mathematics
 + Programming, Development - `C++, Python, SwiftUI, JavaScript, TypeScript, C`
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lei-01&show_icons=true&theme=dark)
